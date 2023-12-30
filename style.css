@@ -1,0 +1,30 @@
+.container{
+    border:solid ;
+    width:auto;
+    height:580px;
+}
+.csm{
+    text-align: center;
+    background-color:cornsilk;
+    height: 145px;
+    line-height: 145px;
+}
+.csd{
+    text-align: center;
+    background-color: aquamarine;
+    height: 145px;
+    line-height: 145px;
+}
+.cse{
+    background-color: cornflowerblue;
+    height: 145px;
+    overflow-y:auto ;
+    text-align:justify;
+    padding-right:15px;
+}
+.ece{
+    background-color: coral;
+    text-align: center;
+    height:145px;
+    line-height: 145px;
+}
